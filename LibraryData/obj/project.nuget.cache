@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ZQk8TpXunvohExoJtVO6S2Ou4NBizUTBbgFuEN8BQZzPXmJevyWLjU3M1KE0+Fj+EtS/V8dt3AV3uq+zAKWPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo-Desktop\\Desktop\\obi\\LibraryApp\\LibraryData\\LibraryData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo-Desktop\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo-Desktop\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
